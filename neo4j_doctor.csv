@@ -1,0 +1,31 @@
+postId,doctorId,realName,department,address,locationLat,locationLong,location,OpenTime,closeTime,postTime
+1,2,Dr. Sue Kafali-Nazarof,gynecologic & cosmetic surgeon,"3000 N Halsted St Ste 720, Chicago, IL 60657",41.936704399999996,-87.6519388,"Chicago, IL",09:00:00,17:00:00,2020-08-30
+2,5,Dr. Ming Li Tsang,Family Medicine,"909 Hyde St #432, San Francisco, CA 94109",37.789371,-122.41944409999999,"San Francisco, CA",08:00:00,17:30:00,2020-09-03
+3,9,Dr. Ryan M Siewert,Family Medicine,"1321 W Dakota Pkwy, Williston, ND 58801",48.1559559,-103.6530379,"Williston, ND",09:30:00,17:30:00,2020-09-05
+4,7,Dr. Brynna Connor,Family Medicine,"2911 Medical Arts St Building #10, Austin, TX 78705",30.2880745,-97.7295075,"Austin, TX",08:00:00,17:30:00,2020-09-05
+5,11,Dr. Milton Waner,hemangiomas and vascular malformations,"210 East 64th Street, 7th Floor, New York City, NY 10065",40.7640723,-73.9655038,"New York City, NY",08:15:00,16:30:00,2020-09-06
+6,12,Dr. David J. Benditzson, Primary Care,"111 N Wabash Ave STE 1412, Chicago, IL 60602",41.88347460000001,-87.6279434,"Chicago, IL",09:30:00,16:30:00,2020-09-12
+7,13,Dr. Shirish N. Shah, Cardiology ,"5600 W Addison St Ste 400, Chicago, IL 60634",41.946091100000004,-87.7693311,"Chicago, IL",09:00:00,17:30:00,2020-09-12
+8,14,Dr. Adrian Ma, Cardiovascular ,"5200 Jose Figueres Ave #215, San Jose, CA 95116",37.3615718,-121.85241640000001,"San Jose, CA",08:00:00,15:30:00,2020-09-15
+9,15,Dr. Russell O. Schub,Gastroenterology,"8875 Centre Park Dr suite d, Columbia, MD 21045",39.2289939,-76.8156736,"Columbia, MD",10:00:00,16:00:00,2020-09-20
+10,16,Dr. March E. Seabrook,Gastroenterology,"131 Summer Pl Dr, West Columbia, SC 29169",34.0042347,-81.12318259999999,"West Columbia, SC",08:00:00,17:00:00,2020-09-22
+11,17,Mark W. Galland,Orthopedics,"11200 Gov Manly Way #309, Raleigh, NC 27614",35.947750899999996,-78.543784,"Raleigh, NC",09:00:00,17:30:00,2020-09-27
+12,18,Dr. Jon J. Warner,Orthopedics,"55 Fruit St, Boston, MA 02114",42.362706,-71.0708467,"Boston, MA",08:30:00,16:30:00,2020-09-28
+13,19,Dr. Peter Steinberg,Urology,"330 Brookline Ave, Boston, MA 02215",42.3398798,-71.106747,"Boston, MA",08:30:00,16:30:00,2020-10-08
+14,20,Dr. Robert Oates,Urology,"725 Albany St #3b, Boston, MA 02118",42.3348727,-71.07434350000001,"Boston, MA",09:30:00,18:30:00,2020-10-09
+15,21,Dr. Edward Zoltan,Urology,"175 Remsen St 12th floor, Brooklyn, NY 11201",40.6934999,-73.9935536,"Brooklyn, NY",08:30:00,18:00:00,2020-10-11
+16,22,Dr. Ken Moadel,Ophthalmology,"110 E 40th St Floor 6, New York, NY 10016",40.7504117,-73.980187,"New York, NY",08:30:00,17:00:00,2020-10-12
+17,23,Dr. Jacqueline Wong,Ophthalmology,"945 Hildebrand Ln NE, Bainbridge Island, WA 98110",47.63361870000001,-122.51992709999999,"Bainbridge Island, WA",09:00:00,17:00:00,2020-10-15
+18,24,Dr. John H. Wilkins,Ophthalmology,"9155 SW Barnes Rd #430, Portland, OR 97225",45.510411,-122.77230800000001,"Portland, OR",09:00:00,14:00:00,2020-10-16
+19,27,Dr. Nayantara Seneviratne,Endocrinologists,"2250 Hayes St Ste. 612, San Francisco, CA 94117",37.77315120000001,-122.45560970000001,"San Francisco, CA",08:30:00,16:00:00,2020-10-18
+20,26,Jennifer N. Ouchi,Endocrinologists,"8635 W 3rd St, Los Angeles, CA 90048",34.0739596,-118.38310859999999,"Los Angeles, CA",08:30:00,16:00:00,2020-10-19
+21,25,Erin McCann,Endocrinologists,"1658 N Milwaukee Ave, Chicago, IL 60647",41.911521,-87.6820203,"Chicago, IL",09:30:00,16:00:00,2020-10-19
+22,28,"Dr. Chienying Liu, MD",Endocrinologists,"400 Parnassus Ave Suite A-550, San Francisco, CA 94143",37.7645542,-122.45944479999999,"San Francisco, CA",09:30:00,17:00:00,2020-10-20
+23,29,"Dr. Sujani G. Surakanti, MD",Hematologists,"1 Gustave L. Levy Pl, New York, NY 10029",40.7900079,-73.9559261,"New York, NY ",09:30:00,16:15:00,2020-10-21
+24,30,Elizondo Joseph MD,Internists,"6835 Austin Center Blvd, Austin, TX 78731",30.3512728,-97.752607,"Austin, TX",10:00:00,16:00:00,2020-10-21
+25,31,"Dr. Mark S. Rosen, MD",Nephrologists,"3000 N Interstate 35 Frontage Rd, Austin, TX 78705",30.2884636,-97.7264813,"Austin, TX",08:30:00,15:00:00,2020-10-22
+26,32,"Ayman Layka, MD",Nephrologists,"4302 Alton Rd #400, Miami Beach, FL 33140",25.8140468,-80.1418685,"Miami Beach, FL",09:30:00,15:00:00,2020-10-24
+27,33,Wohlfeiler Michael MD,Internists,"4308 Alton Rd, Miami Beach, FL 33140",25.8148808,-80.1426972,"Miami Beach, FL",08:30:00,16:00:00,2020-10-25
+28,34,"Dr. Gerald H. Watanabe, MD",Internists,"321 N Kuakini St STE 802, Honolulu, HI 96817",21.3215492,-157.858117,"Honolulu, HI",09:30:00,17:00:00,2020-10-26
+29,35,Dr. Kore Liow MD,Neurologists,"1329 Lusitana St #307, Honolulu, HI 96813",21.3076091,-157.8542824,"Kailua, HI",08:00:00,17:00:00,2020-10-27
+30,36,Cho Jonathan MD,Oncologists,"9155 SW Barnes Rd #430, Portland, OR 97225",45.510411,-122.7723133,"Portland, OR",08:30:00,17:30:00,2020-10-28
